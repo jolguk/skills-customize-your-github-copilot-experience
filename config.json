@@ -65,6 +65,13 @@
       "description": "Build and test a task-tracking REST API with FastAPI, Pydantic validation, and CRUD endpoints.",
       "path": "assignments/fastapi-rest-apis",
       "dueDate": "2026-10-29"
+    },
+    {
+      "id": "sqlite-task-api",
+      "title": "Persistent Task APIs with SQLite",
+      "description": "Extend a FastAPI task tracker with SQLite persistence, parameterized SQL, database constraints, and isolated tests.",
+      "path": "assignments/sqlite-task-api",
+      "dueDate": "2026-10-29"
     }
   ]
 }
